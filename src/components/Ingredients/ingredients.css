@@ -1,0 +1,12 @@
+.ingredientcontainer{
+    height: 200px;
+    background-color: greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ingredientcontent{
+   
+    height: inherit;
+}

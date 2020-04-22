@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: brown;
+    color: white;
+    
+}
+
+.name{
+    margin: 10px 10px;
+}
