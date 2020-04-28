@@ -1,0 +1,11 @@
+.modal{
+    height: 200px;
+    text-align: center;
+    position: fixed;
+      background-color: #fff;
+       z-index:  500; 
+       left: 15%;
+        top: 10%;
+         box-sizing: border-box;
+          width: 70%;
+}
